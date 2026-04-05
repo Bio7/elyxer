@@ -24,3 +24,10 @@ Verify Python 3 Compatibility: Test if it starts without syntax errors:
 ```bash
 python3 /usr/local/bin/elyxer --help
 ```
+### Use elyxer to create a *.html file from a Lyx file
+
+Here we create a *.html file with a given (bio7) stylesheet
+
+```bash
+python3 /usr/local/bin/elyxer --mathjax remote --css bio7.css Main.lyx Main.html
+```
