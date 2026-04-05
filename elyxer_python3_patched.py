@@ -914,7 +914,7 @@ class GeneralConfig(object):
   "Configuration class from elyxer.config file"
 
   version = {
-      'date':'2013-03-10', 'lyxformat':'413', 'number':'1.2.5', 
+      'date':'2013-03-10', 'lyxformat':'648', 'number':'1.2.5', 
       }
 
 class HeaderConfig(object):
