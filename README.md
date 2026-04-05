@@ -1,5 +1,8 @@
-# elyxer
-elyxer updated for Python 3
+# elyxer for Python 3
+
+Patched elyxer for Python 3. Original script can be found on the elyxer repository: 
+
+https://github.com/alexfernandez/elyxer
 
 ### How to install
 If you move to a new Mac/linux or reinstall your system, follow these steps to make the script work again:
